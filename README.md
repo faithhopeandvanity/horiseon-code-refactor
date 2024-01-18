@@ -9,4 +9,4 @@ Also, all image elements have to have alt text to help with accessibility and en
 
 [Screenshot of the finished webpage](screencap1.png)
 
-[Deployed application](https://www.faithhopeandvanity.github.io/horiseon-code-refactor)
+[Deployed application](https://faithhopeandvanity.github.io/horiseon-code-refactor/)
