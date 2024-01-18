@@ -3,11 +3,11 @@
     padding: 0;
     margin: 0;
 }
-
+/*Targets whole webpage, outside of meta elements like title.*/
 body {
     background-color: #d9dcd6;
 }
-
+/*Targets header, provides padding between text and margin, ascribes font, bg-colour and text colour */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,16 +40,16 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/*Targets list items*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/*Targets copy*/
 p {
     font-size: 16px;
 }
-
+/*Giving the hero image 100% width makes it as big as possible and makes it span the whole width of the page.*/
 .hero {
     height: 800px;
     width: 100%;
@@ -74,7 +74,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/*Targets 'benefits' box and gives it a font*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -187,7 +187,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*At the bottom of the webpage*/
 .footer {
     padding: 30px;
     clear: both;
